@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amit Sharma",
+      "email": "amit.sharma@example.com",
+      "role": "admin",
+      "isActive": true,
+      "createdAt": "2025-01-15T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Neha Verma",
+      "email": "neha.verma@example.com",
+      "role": "user",
+      "isActive": false,
+      "createdAt": "2025-01-20T14:45:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Rahul Singh",
+      "email": "rahul.singh@example.com",
+      "role": "user",
+      "isActive": true,
+      "createdAt": "2025-02-01T09:15:00Z"
+    }
+  ],
+  "meta": {
+    "totalUsers": 3,
+    "page": 1,
+    "pageSize": 10
+  }
+}
